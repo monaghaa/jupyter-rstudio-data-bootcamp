@@ -11,7 +11,6 @@ install.packages('leaflet')
 #others
 install.packages('ggstatsplot')
 install.packages('psych')
-install.packages('tidyverse')
 install.packages('knitr')
 install.packages('broom')
 install.packages('fivethirtyeight')
